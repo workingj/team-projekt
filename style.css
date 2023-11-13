@@ -9,3 +9,23 @@ h1{
     line-height: 5em;
     background-color: aquamarine;
 }
+
+
+nav{
+    display:flex ;
+    justify-content: center;
+    height: 5em;
+    /* margin: 0; */
+    /* padding: 0; */
+    background-color: white;
+    align-items: center;
+}
+
+.navibar{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
+/* .navibar>a{
+    padding: 0 1em;
+} */
