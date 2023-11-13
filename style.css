@@ -1,3 +1,36 @@
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 5em;
+    line-height: 5em;
+    background-color: aquamarine;
+}
+
+
+nav{
+    display:flex ;
+    justify-content: center;
+    height: 5em;
+    /* margin: 0; */
+    /* padding: 0; */
+    background-color: white;
+    align-items: center;
+}
+
+.navibar{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
+/* .navibar>a{
+    padding: 0 1em;
+} */
+
 html,
 body {
   padding: 0;
