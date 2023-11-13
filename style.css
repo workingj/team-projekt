@@ -112,4 +112,5 @@ aside {
   position: fixed;
   top: 60%;
   right: 30px;
+  cursor: pointer;
 }
